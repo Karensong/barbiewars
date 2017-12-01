@@ -1,0 +1,13 @@
+#gametitle, 
+#gamerules {
+	text-align: center;
+}
+
+#gamerules {
+	border: solid black 5px;
+}
+
+body {
+    background-image: url(pinkback.jpeg);
+    height: 100%;
+}
